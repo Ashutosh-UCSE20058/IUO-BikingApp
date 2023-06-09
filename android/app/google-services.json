@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "983854894523",
+    "project_id": "better-route-2",
+    "storage_bucket": "better-route-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983854894523:android:3d0a01fe8bab2f1e3a889e",
+        "android_client_info": {
+          "package_name": "com.iuo.betterroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983854894523-dnaskroc262an677lvagg4rofksu4ukr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iuo.betterroute",
+            "certificate_hash": "4a783ddc5ae0189391f2e20a0a7429f908b34995"
+          }
+        },
+        {
+          "client_id": "983854894523-mded2jrdpp24irp6jn20gqcghkgn2vsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuYc_AmHJ8Q4WHkgDwK0Hvaf6NeTu0qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983854894523-6kfkojs049ui9166vetau5ievcu8qfch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983854894523-rds6hc4bmq2p4bqd23rp4e42q562k707.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iuo.betterroute"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

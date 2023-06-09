@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">983854894523-mded2jrdpp24irp6jn20gqcghkgn2vsf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">983854894523</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWuYc_AmHJ8Q4WHkgDwK0Hvaf6NeTu0qE</string>
+    <string name="google_app_id" translatable="false">1:983854894523:android:3d0a01fe8bab2f1e3a889e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWuYc_AmHJ8Q4WHkgDwK0Hvaf6NeTu0qE</string>
+    <string name="google_storage_bucket" translatable="false">better-route-2.appspot.com</string>
+    <string name="project_id" translatable="false">better-route-2</string>
+</resources>

@@ -1,0 +1,178 @@
+{
+    "walking":{
+        "grievanceTypes":[
+            {
+                "name": "Amenities",
+                "subtypes": [
+                    {
+                        "desc":"No toilets"
+                    },
+                    {
+                        "desc":"No water booth"
+                    },
+                    {
+                        "desc":"No seating"
+                    },
+                    {
+                        "desc":"No Food joints"
+                    }
+                ],
+                "grievanceColor": "yellow"
+            },
+            {
+                "name": "Infrastructure",
+                "subtypes": [
+                    {
+                        "desc":"Slippery surface"
+                    },
+                    {
+                        "desc":"Broken surface"
+                    },
+                    {
+                        "desc":"No Brailles"
+                    },
+                    {
+                        "desc":"No kerbs"
+                    },
+                    {
+                        "desc":"No bollards"
+                    }
+                ],
+                "grievanceColor": "purple"
+            },
+            {
+                "name": "Safety & Security",
+                "subtypes":[
+                    {
+                        "desc": "No streetlights"
+                    },
+                    {
+                        "desc": "Streetlights not working"
+                    },
+                    {
+                        "desc": "No CCTV monitoring"
+                    },
+                    {
+                        "desc": "No emergency call box"
+                    }
+                ],
+                "grievanceColor": "green"
+            },
+            {
+                "name": "Walking Experience",
+                "subtypes":[
+                    {
+                        "desc": "Obstructed footpath"
+                    },
+                    {
+                        "desc": "Enroached footpath"
+                    },
+                    {
+                        "desc": "Narrow footpath"
+                    },
+                    {
+                        "desc": "Un-shaded pathways"
+                    },
+                    {
+                        "desc": "Vehicles using pathways"
+                    },
+                    {
+                        "desc": "Vehicles parked on footpath"
+                    },
+                    {
+                        "desc": "Not Vibrant footpath"
+                    },
+                    {
+                        "desc": "Potholes"
+                    }
+                ],
+                "grievanceColor":"blue"
+            }
+        ]
+    },
+    "cycling":{
+        "grievanceTypes":[
+            {
+                "name": "Amenities",
+                "subtypes": [
+                    {
+                        "desc":"No toilets"
+                    },
+                    {
+                        "desc":"No water booth"
+                    },
+                    {
+                        "desc":"No seating"
+                    },
+                    {
+                        "desc":"No Food joints"
+                    }
+                ],
+                "grievanceColor": "yellow"
+            },
+            {
+                "name": "Infrastructure",
+                "subtypes": [
+                    {
+                        "desc":"Slippery surface"
+                    },
+                    {
+                        "desc":"Broken surface"
+                    },
+                    {
+                        "desc":"Potholes on track"
+                    }
+                ],
+                "grievanceColor": "purple"
+            },
+            {
+                "name": "Safety & Security",
+                "subtypes":[
+                    {
+                        "desc": "No streetlights"
+                    },
+                    {
+                        "desc": "Streetlights not working"
+                    },
+                    {
+                        "desc": "No speedbreakers"
+                    },
+                    {
+                        "desc": "No timed control traffic signals"
+                    }
+                ],
+                "grievanceColor": "green"
+            },
+            {
+                "name": "Cycling Experience",
+                "subtypes":[
+                    {
+                        "desc": "Enroached bicycle tracks"
+                    },
+                    {
+                        "desc": "Un-shaded pathways"
+                    },
+                    {
+                        "desc": "Vehicles using bicycle track"
+                    },
+                    {
+                        "desc": "Narrow bicycle tracks"
+                    },
+                    {
+                        "desc": "Obstructed bicycle tracks"
+                    },
+                    {
+                        "desc": "Unsafe crossings at junctions"
+                    },
+                    {
+                        "desc": "Vehicles parked on track"
+                    },
+                    {
+                        "desc": "Vehicles using track"
+                    }
+                ],
+                "grievanceColor":"blue"
+            }
+        ]
+    }
+}
